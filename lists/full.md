@@ -13,13 +13,13 @@ For information about mobile broadband and tethering, please see [this list]. (i
 |Network/plan name|MNO|Speed caps if applicable|Band access restrictions|2G service|3G service|4G service|5G service|Voice over LTE|Voice over WiFi|Visual voicemail|eSIM|Call merging|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Lebara|Vodafone|150mbps|N/A|Yes<sup>2</sup>|Yes<sup>6</sup>|Yes|Yes|Yes<sup>7</sup>|Yes<sup>7</sup>|?|No|Yes<sup>8</sup>|
-|O2 PAYG/Rolling Plans|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1-o2-is-switching-off-its-3g-service-by-the-end-of-2025)|Yes|No|No|No|No|No|?|
-|O2 Pay Monthly|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1-o2-is-switching-off-its-3g-service-by-the-end-of-2025)|Yes|Yes|Yes|Yes*|Yes|Yes|?|
-|Virgin Mobile<sup>3</sup>|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1-o2-is-switching-off-its-3g-service-by-the-end-of-2025)|Yes|Yes|No<sup>4</sup>|No<sup>4</sup>|No<sup>5</sup>|Yes|?|
+|O2 PAYG/Rolling Plans|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|No|No|No|No|No|?|
+|O2 Pay Monthly|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|Yes|Yes|Yes*|Yes|Yes|?|
+|Virgin Mobile<sup>3</sup>|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|Yes|No<sup>4</sup>|No<sup>4</sup>|No<sup>5</sup>|Yes|?|
 
 ## Footnotes
 
-###### 1. O2 is switching off its 3G service by the end of 2025. See https://www.o2.co.uk/help/network-coverage-and-international/3g-switch-off for the latest information regarding this.
+###### 1. <br> O2 is switching off its 3G service by the end of 2025. See https://www.o2.co.uk/help/network-coverage-and-international/3g-switch-off for the latest information regarding this.
 ###### 2. All network providers are committed to turning off their 2G service before 2033.
 ###### 3. Provider is no longer accepting customers
 ###### 4. Customer support for Virgin Mobile has shut down afaik so you cannot enable these. The ability to enable VoLTE and VoWiFi will return once all customers are migrated to O2 Pay Monthly.
