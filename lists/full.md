@@ -8,3 +8,4 @@ This is by no means a full list at the moment and is largely experimental.
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |O2 PAYG/Rolling Plans|O2|N/A|N/A|Yes|Yes*|Yes|No|No|No|No|No|
 |O2 Pay Monthly|O2|N/A|N/A|Yes|Yes*|Yes|Yes|Yes|Yes*|Yes|Yes|
+|Virgin Mobile*|O2|N/A|N/A|Yes|Yes*|Yes|Yes|No*|No*|No*|Yes|
