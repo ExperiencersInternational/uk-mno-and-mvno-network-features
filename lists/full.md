@@ -13,7 +13,7 @@ For information about mobile broadband and tethering, please see [this list]. (i
 |Network/plan name|MNO|Speed caps if applicable|Band access restrictions|2G service|3G service|4G service|5G service|Voice over LTE|Voice over WiFi|Visual voicemail|eSIM|Call merging|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Lebara|Vodafone|150mbps|N/A|Yes<sup>2</sup>|Yes<sup>6</sup>|Yes|Yes|Yes<sup>7</sup>|Yes<sup>7</sup>|?|No|Yes<sup>8</sup>|
-|O2 PAYG/Rolling Plans|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|No|No|No|No|No|?|
+|O2 PAYG/Rolling Plans|O2|Lower priority|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|No|No|No|No|No|?|
 |O2 Pay Monthly|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|Yes|Yes|Yes*|Yes|Yes|?|
 |Virgin Mobile<sup>3</sup>|O2|N/A|N/A|Yes<sup>2</sup>|Yes[<sup>1</sup>](#1)|Yes|Yes|No<sup>4</sup>|No<sup>4</sup>|No<sup>5</sup>|Yes|?|
 
