@@ -19,7 +19,7 @@ For information about mobile broadband and tethering, please see [this list]. (i
 
 ## Footnotes
 
-###### 1. O2 is switching off its 3G service by the end of 2025.
+###### 1. O2 is switching off its 3G service by the end of 2025. See https://www.o2.co.uk/help/network-coverage-and-international/3g-switch-off for the latest information regarding this.
 ###### 2. All network providers are committed to turning off their 2G service before 2033.
 ###### 3. Provider is no longer accepting customers
 ###### 4. Customer support for Virgin Mobile has shut down afaik so you cannot enable these. The ability to enable VoLTE and VoWiFi will return once all customers are migrated to O2 Pay Monthly.
