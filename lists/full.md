@@ -10,7 +10,7 @@ For information about roaming support since that's complicated, please see [this
 For information about mobile broadband and tethering, please see [this list]. (it doesn't exist right now either)
 
 |Network/plan name|MNO|Speed caps if applicable|Band access restrictions|2G service|3G service|4G service|5G service|Voice over LTE|Voice over WiFi|Visual voicemail|eSIM|Call merging|
-|-|-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |O2 PAYG/Rolling Plans|O2|N/A|N/A|Yes<sup>2</sup>|Yes<sup>1</sup>|Yes|No|No|No|No|No|?|
 |O2 Pay Monthly|O2|N/A|N/A|Yes<sup>2</sup>|Yes<sup>1</sup>|Yes|Yes|Yes|Yes*|Yes|Yes|?|
 |Virgin Mobile<sup>3</sup>|O2|N/A|N/A|Yes<sup>2</sup>|Yes<sup>1</sup>|Yes|Yes|No<sup>4</sup>|No<sup>4</sup>|No<sup>5</sup>|Yes|?|
