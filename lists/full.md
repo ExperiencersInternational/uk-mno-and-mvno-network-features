@@ -19,11 +19,19 @@ For information about mobile broadband and tethering, please see [this list]. (i
 
 ## Footnotes
 
-###### 1. <br> O2 is switching off its 3G service by the end of 2025. See https://www.o2.co.uk/help/network-coverage-and-international/3g-switch-off for the latest information regarding this.
-###### 2. All network providers are committed to turning off their 2G service before 2033.
-###### 3. Provider is no longer accepting customers
-###### 4. Customer support for Virgin Mobile has shut down afaik so you cannot enable these. The ability to enable VoLTE and VoWiFi will return once all customers are migrated to O2 Pay Monthly.
-###### 5. Virgin Mobile does not support visual voicemail, however once customers are migrated to O2, they should be able to use it.
-###### 6. Vodafone is in the process of shutting down their 3G network. In most areas afaik, 3G is still available.
-###### 7. May take up to a week to activate.
-###### 8. Text CONF to 38885 to activate
+###### 1. 
+O2 is switching off its 3G service by the end of 2025. See https://www.o2.co.uk/help/network-coverage-and-international/3g-switch-off for the latest information regarding this.
+###### 2. 
+All network providers are committed to turning off their 2G service before 2033.
+###### 3. 
+Provider is no longer accepting customers
+###### 4. 
+Customer support for Virgin Mobile has shut down afaik so you cannot enable these. The ability to enable VoLTE and VoWiFi will return once all customers are migrated to O2 Pay Monthly.
+###### 5. 
+Virgin Mobile does not support visual voicemail, however once customers are migrated to O2, they should be able to use it.
+###### 6.
+Vodafone is in the process of shutting down their 3G network. In most areas afaik, 3G is still available.
+###### 7. 
+May take up to a week to activate.
+###### 8. 
+Text CONF to 38885 to activate
