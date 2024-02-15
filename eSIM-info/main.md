@@ -2,6 +2,8 @@
 
 This page lists information about roaming eSIMs in the United Kingdom and more basic information abroad.
 
+Want to add information? Contribute on [GitHub](https://github.com/ExperiencersInternational/uk-mno-and-mvno-network-features).
+
 > Jump to:
 >
 > * [BetterRoaming](#BetterRoaming)
@@ -20,19 +22,21 @@ Only Europe and Global plans are listed, please view the website for the latest 
 * UK Networks: EE 5G
 * Speeds: unknown
 * Using abroad: 120+ countries available, visit website for more information
-* Home provider: EE
+* Home provider: EE (234 25 (234 30)
 * Carrier profile (Pixel): Truphone
 * Other information: SIM Toolkit menu to contact support
 
 ## Firsty
 
-Firsty offers a free ad supported plan which requires you to watch videos in order to get 60 minutes of browsing time. They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price.
+Firsty offers a free ad supported plan which requires you to watch videos in order to get 60 minutes of browsing time. 
+
+They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price. Firsty Fast plans allow you to use 2GB each day at a fast speed and then an unlimited amount at a reduced speed.
 
 * Plans: ranges from €3.50 for 1 day to €59.40 for 30 days
 * UK Networks: EE, O2, Three
-* Speeds: unknown for 2GB Firsty Fast FUP, 200-300kbps after you've exceeded the FUP or you are on the Firsty Free plan
+* Speeds: unknown for Firsty Fast, 200-300kbps after you've exceeded the FUP or you are on the Firsty Free plan
 * Using abroad: 120+ countries available
-* Home provider: Play PL
+* Home provider: Play PL (260 06)
 * Carrier profile (Pixel): Play PL
 * Other information: SIM Toolkit menu to show list of supported countries, 4G displays as LTE due to profile
 
@@ -46,7 +50,7 @@ Information gathered from the 3GB for free plan.
 * UK Networks: EE 4G, O2 5G, Vodafone 5G, Three 5G
 * Speeds: Capped at 60/60mbps for EE, 160/160mbps for other UK networks
 * Using abroad: 52 countries available, see information at https://seeek.co/coverage
-* Home provider: 3 AT
+* Home provider: 3 AT (232 05)
 * Carrier profile (Pixel): 3 AT
 * Extra features: Tethering, Band 20 access on EE
 * Additional information: 5G unavailable on Pixel 6-series devices
