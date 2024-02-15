@@ -22,6 +22,7 @@ Only Europe and Global plans are listed, please view the website for the latest 
 * Using abroad: 120+ countries available, visit website for more information
 * Home provider: EE
 * Carrier profile (Pixel): Truphone
+* Other information: SIM Toolkit menu to contact support
 
 ## Firsty
 
@@ -33,6 +34,7 @@ Firsty offers a free ad supported plan which requires you to watch videos in ord
 * Using abroad: 120+ countries available
 * Home provider: Play PL
 * Carrier profile (Pixel): Play PL
+* Other information: SIM Toolkit menu to show list of supported countries
 
 ## Seeek
 
