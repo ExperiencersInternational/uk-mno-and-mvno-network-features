@@ -34,7 +34,7 @@ Firsty offers a free ad supported plan which requires you to watch videos in ord
 * Using abroad: 120+ countries available
 * Home provider: Play PL
 * Carrier profile (Pixel): Play PL
-* Other information: SIM Toolkit menu to show list of supported countries
+* Other information: SIM Toolkit menu to show list of supported countries, 4G displays as LTE due to profile
 
 ## Seeek
 
