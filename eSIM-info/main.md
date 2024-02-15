@@ -5,6 +5,7 @@ This page lists information about roaming eSIMs in the United Kingdom and more b
 > Jump to:
 >
 > * [BetterRoaming](#BetterRoaming)
+> * [Firsty](#Firsty)
 > * [Seeek](#Seeek)
 
 ## BetterRoaming
@@ -21,6 +22,17 @@ Only Europe and Global plans are listed, please view the website for the latest 
 * Using abroad: 120+ countries available, visit website for more information
 * Home provider: EE
 * Carrier profile (Pixel): Truphone
+
+## Firsty
+
+Firsty offers a free ad supported plan which requires you to watch videos in order to get 60 minutes of browsing time. They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price.
+
+* Plans: ranges from €3.50 for 1 day to €59.40 for 30 days
+* UK Networks: EE, O2, Three
+* Speeds: unknown for 2GB Firsty Fast FUP, 200-300kbps after you've exceeded the FUP or you are on the Firsty Free plan
+* Using abroad: 120+ countries available
+* Home provider: Play PL
+* Carrier profile (Pixel): Play PL
 
 ## Seeek
 
