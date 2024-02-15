@@ -2,14 +2,30 @@
 
 This page lists information about roaming eSIMs in the United Kingdom and more basic information abroad.
 
+## BetterRoaming
+
+Information gathered from a 1GB for 30 days plan which was made available for free.
+
+Only Europe and Global plans are listed, please view the website for the latest information.
+
+* Plans: EU 1GB/7d for £3.29, EU 3GB/30d for £8.19, EU 5GB/30d for £10.49, EU 10GB/30d for £20.19, EU 20GB/30d for £36.19, Global 1GB/7d for £7.29, Global 3GB/30d for £19.29, Global 5GB/30d for £28.19
+* UK Networks: EE 5G
+* Speeds: unknown
+* Using abroad: 120+ countries available, visit website for more information
+* Home provider: EE
+* Carrier profile (Pixel): Truphone
+
 ## Seeek
 
 All plans listed below are 30 day rolling plans which can be used in any of Seeek's supported countries. All plans are supported by SMS advertising.
 
+Information gathered from the 3GB for free plan.
+
 * Plans: 3GB for free, 5GB for £4/mo, 10GB for £7/mo, 20GB for £12/mo
 * UK Networks: EE 4G, O2 5G, Vodafone 5G, Three 5G
-* Speeds: Capped at 60/60mbps for EE, 160/160 for other networks
-* Using abroad: 52 countries available
+* Speeds: Capped at 60/60mbps for EE, 160/160mbps for other UK networks
+* Using abroad: 52 countries available, see information at https://seeek.co/coverage
 * Home provider: 3 AT
 * Carrier profile (Pixel): 3 AT
-* Extra features: Tethering
+* Extra features: Tethering, Band 20 access on EE
+* Additional information: 5G unavailable on Pixel 6-series devices
