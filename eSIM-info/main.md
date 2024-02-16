@@ -6,9 +6,9 @@ Want to add information? Contribute on [GitHub](https://github.com/ExperiencersI
 
 > Jump to:
 >
-> * [BetterRoaming](#BetterRoaming)
-> * [Firsty](#Firsty)
-> * [Seeek](#Seeek)
+> * [BetterRoaming](#betterroaming)
+> * [Firsty](#firsty)
+> * [Seeek](#seeek)
 
 ## BetterRoaming
 
@@ -28,7 +28,7 @@ Only Europe and Global plans are listed, please view the website for the latest 
 
 ## Firsty
 
-Firsty offers a free ad supported plan which requires you to watch videos in order to get 60 minutes of browsing time. 
+Firsty offers a free ad supported plan which requires you to watch videos in order to top up to 60 minutes of browsing time. 
 
 They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price. Firsty Fast plans allow you to use 2GB each day at a fast speed and then an unlimited amount at a reduced speed.
 
@@ -53,4 +53,4 @@ Information gathered from the 3GB for free plan.
 * Home provider: 3 AT (232 05)
 * Carrier profile (Pixel): 3 AT
 * Extra features: Tethering, Band 20 access on EE
-* Additional information: 5G unavailable on Pixel 6-series devices
+* Additional information: 5G unavailable on Pixel 6-series and lower devices, seemingly comes with a UK IP address but ipinfo.io reports it as IPs that the French carrier SFR uses
