@@ -28,7 +28,7 @@ Only Europe and Global plans are listed, please view the website for the latest 
 
 ## Firsty
 
-Firsty offers a free ad supported plan which requires you to watch videos in order to top up to 60 minutes of browsing time. 
+Firsty offers a free ad supported plan which requires you to watch videos in order to top up to 60 minutes of browsing time. Browsing time seems to tick down even if you're not using data, Firsty gives you 15MB when you run out of browsing time to watch another advertisement.
 
 They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price. Firsty Fast plans allow you to use 2GB each day at a fast speed and then an unlimited amount at a reduced speed.
 
