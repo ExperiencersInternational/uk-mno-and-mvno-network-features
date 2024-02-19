@@ -48,7 +48,7 @@ Information gathered from the 3GB for free plan.
 
 * Plans: 3GB for free, 5GB for £4/mo, 10GB for £7/mo, 20GB for £12/mo
 * UK Networks: EE 4G, O2 5G, Vodafone 5G, Three 5G
-* Speeds: Capped at 60/60mbps for EE, 160/160mbps for other UK networks
+* Speeds: Capped at 60/40mbps for EE, 160/160mbps for other UK networks
 * Using abroad: 52 countries available, see information at https://seeek.co/coverage
 * Home provider: 3 AT (232 05)
 * Carrier profile (Pixel): 3 AT
