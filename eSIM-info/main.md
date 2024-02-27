@@ -28,7 +28,7 @@ Only Europe and Global plans are listed, please view the website for the latest 
 
 ## Firsty
 
-> ℹ️ A thread for Firsty is available on ISPreview's forums: https://www.ispreview.co.uk/talk/threads/firsty-esim.41337/
+> ℹ️ A thread for Firsty is available on ISPreview's forums: [https://www.ispreview.co.uk/talk/threads/firsty-esim.41337/](https://www.ispreview.co.uk/talk/threads/firsty-esim.41337/)
 
 Firsty offers a free ad supported plan which requires you to watch videos in order to top up to 60 minutes of browsing time. Browsing time seems to tick down even if you're not using data, Firsty gives you 15MB when you run out of browsing time to watch another advertisement.
 
@@ -46,7 +46,7 @@ They only offer one premium plan (Firsty Fast) which allows you to choose a flex
 
 > ⚠️ Seeek is currently undergoing some changes, information here may not be fully accurate at the moment.
 
-> ℹ️ A thread for Seeek is available on ISPreview's forums: https://www.ispreview.co.uk/talk/threads/seeek-esim-discussion.41261/
+> ℹ️ A thread for Seeek is available on ISPreview's forums: [https://www.ispreview.co.uk/talk/threads/seeek-esim-discussion.41261/](https://www.ispreview.co.uk/talk/threads/seeek-esim-discussion.41261/)
 
 All plans listed below are 30 day rolling plans which can be used in any of Seeek's supported countries. All plans are supported by SMS advertising.
 
