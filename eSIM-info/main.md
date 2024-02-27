@@ -12,7 +12,7 @@ Want to add information? Contribute on [GitHub](https://github.com/ExperiencersI
 
 ## BetterRoaming
 
-> Visit [HotUKDeals](https://www.hotukdeals.com/search/vouchers?merchant-id=49939) for available discounts with BetterRoaming.
+> ℹ️ Visit [HotUKDeals](https://www.hotukdeals.com/search/vouchers?merchant-id=49939) for available discounts with BetterRoaming.
 
 Information gathered from a 1GB for 30 days plan which was made available for free.
 
@@ -28,12 +28,14 @@ Only Europe and Global plans are listed, please view the website for the latest 
 
 ## Firsty
 
+> ℹ️ A thread for Firsty is available on ISPreview's forums: https://www.ispreview.co.uk/talk/threads/firsty-esim.41337/
+
 Firsty offers a free ad supported plan which requires you to watch videos in order to top up to 60 minutes of browsing time. Browsing time seems to tick down even if you're not using data, Firsty gives you 15MB when you run out of browsing time to watch another advertisement.
 
 They only offer one premium plan (Firsty Fast) which allows you to choose a flexible amount of days. Separate Firsty Fast plans are available for Europe and the United States, they are charged at the same price. Firsty Fast plans allow you to use 2GB each day at a fast speed and then an unlimited amount at a reduced speed.
 
 * Plans: ranges from €3.50 for 1 day to €59.40 for 30 days
-* UK Networks: EE, O2, Three
+* UK Networks: EE, O2, <s>Three</s>, Vodafone
 * Speeds: unknown for Firsty Fast, 200-300kbps after you've exceeded the FUP or you are on the Firsty Free plan
 * Using abroad: 120+ countries available
 * Home provider: Play PL (260 06)
@@ -41,6 +43,10 @@ They only offer one premium plan (Firsty Fast) which allows you to choose a flex
 * Other information: SIM Toolkit menu to show list of supported countries, 4G displays as LTE due to profile
 
 ## Seeek
+
+> ⚠️ Seeek is currently undergoing some changes, information here may not be fully accurate at the moment.
+
+> ℹ️ A thread for Seeek is available on ISPreview's forums: https://www.ispreview.co.uk/talk/threads/seeek-esim-discussion.41261/
 
 All plans listed below are 30 day rolling plans which can be used in any of Seeek's supported countries. All plans are supported by SMS advertising.
 
